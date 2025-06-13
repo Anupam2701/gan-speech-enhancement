@@ -1,0 +1,6 @@
+torch
+streamlit
+librosa
+soundfile
+pystoi
+pesq
