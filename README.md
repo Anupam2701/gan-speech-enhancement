@@ -10,11 +10,17 @@ A deep learning-powered Streamlit app to enhance speech from noisy audio using a
 
 GAN-SPEECH-ENHANCEMENT/
 ├── app.py # Streamlit interface
+
 ├── model.py # Generator & Discriminator architecture
+
 ├── model_utils.py # Inference + audio enhancement logic
+
 ├── generator_model.pth # Trained generator weights
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project overview and usage
+
 └── .gitignore # Git exclusions (e.g. .pyc, .wav, venv)
 
 
