@@ -10,7 +10,6 @@ venv/
 # Audio & model files
 *.wav
 *.pt
-*.pth
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
